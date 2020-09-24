@@ -1,0 +1,15 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: azure;
+}
+.outer-square {
+  width: 360px;
+  height: 390px;
+  background-color: sandybrown;
+  border: solid 10px black;
+}
